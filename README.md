@@ -1,2 +1,2 @@
-# kkpr-umk-app
-Aplikasi Penilaian KKPR &amp; Pernyataan Mandiri Pelaku UMK
+# KKPR UMK App
+Aplikasi penilaian pelaksanaan KKPR dan Pernyataan Mandiri untuk pelaku UMK.
